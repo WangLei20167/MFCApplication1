@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFCApplication1Dlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCApplication1App" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQA=</HashCode>
+      <FileName>MFCApplication1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCApplication1Dlg" Collapsed="true">
+    <Position X="6" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EBCQQAGA4AEAQABCAJAAAAAQAAAAEAQAAAAAAIAQIAA=</HashCode>
+      <FileName>MFCApplication1Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL">
+    <Position X="0.5" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAEAAAAAAAAAAAAAQARACAACAAEA=</HashCode>
+      <FileName>OpenGL.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolUtils">
+    <Position X="3.5" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAIAAAAAAAAAAAAIACAAAAEAAAA=</HashCode>
+      <FileName>ToolUtils.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
